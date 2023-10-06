@@ -1,4 +1,4 @@
-Hello, I'm Supriya, an aspiring developer with a deep passion for coding and a relentless drive for innovation.
+Hello, I'm Supriya, an aspiring developer at (Masai School) with a deep passion for coding and a relentless drive for innovation.
 I'm on a mission to bring ideas to life through the power of technology.
 
 With a strong foundation in [html,css,javascript,react, Python,(DSA),MongoDBetc..], I'm eager to take on new challenges and continuously expand my skill set.
