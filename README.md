@@ -6,3 +6,6 @@ I thrive in collaborative environments and am excited to be part of a dynamic co
 Whether it's building web applications, or developing websites, or diving into emerging technologies like AI and data science, 
 I'm dedicated to learning and growing in this ever-evolving field.
 Let's connect, collaborate, and code the future together!"
+
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=5001&pause=1000&color=A6F71C&random=false&width=435&lines=hello%2C++I+am+Supriya%2C+Frontend+Developer" alt="Typing SVG" /></a>
