@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Supriya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriya334" alt="supriya334" /></a> </p>
 
-- 🌱 I’m currently learning **react**
+- 🌱 I’m currently learning **React,Chakra UI**
 
-- 👨‍💻 All of my projects are available at [https://65a6b7d4dd3e5416c6e0d815--gregarious-axolotl-5c6109.netlify.app/](https://65a6b7d4dd3e5416c6e0d815--gregarious-axolotl-5c6109.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Supriya334?tab=repositories](https://github.com/Supriya334?tab=repositories)
 
-- 💬 Ask me about **my projects**
+- 💬 Ask me about **HTML, CSS and MY Projects**
 
-- 📫 How to reach me **supriya0404255@gmail.com**
+- 📫 How to reach me **https://www.linkedin.com/in/supriya-singh-b709b7264/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,4 +27,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriya334&show_icons=true&locale=en" alt="supriya334" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya334&" alt="supriya334" /></p>
-
