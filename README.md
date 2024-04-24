@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supriya334?tab=repositories](https://github.com/Supriya334?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS and MY Projects**
+- 💬 Ask me about **HTML, CSS, Javascript and MY Projects**
 
 - 📫 How to reach me **https://www.linkedin.com/in/supriya-singh-b709b7264/**
 
