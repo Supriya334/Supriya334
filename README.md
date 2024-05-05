@@ -12,13 +12,22 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriya334" alt="supriya334" /></a> </p>
 
-- 🌱 I’m currently learning **React,Chakra UI**
+
+<div display="flex">
+<div>- 🌱 I’m currently learning **React,Chakra UI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supriya334?tab=repositories](https://github.com/Supriya334?tab=repositories)
 
 - 💬 Ask me about **HTML, CSS, Javascript and MY Projects**
 
 - 📫 How to reach me **https://www.linkedin.com/in/supriya-singh-b709b7264/**
+</div>
+<div></div>
+ <img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif">
+</div>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
