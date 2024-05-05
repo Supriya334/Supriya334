@@ -49,7 +49,9 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 <br>
 <hr>
-# 📊  My Github Stats:-
+
+
+# 📊 My Github Stats:-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriya334" alt="supriya334" /></a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=supriya334&show_icons=true&locale=en&layout=compact" alt="supriya334" /></p>
@@ -58,7 +60,9 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya334&" alt="supriya334" /></p>
 <hr>
- Thank You 
+
+
+ Thank You, 
  Keep Learning, Keep Growing
 
 <hr>
