@@ -16,9 +16,13 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supriya334?tab=repositories](https://github.com/Supriya334?tab=repositories)
 
-- 💬 Ask me about **HTML, CSS, Javascript and MY Projects**
+- 👯 I’m looking to collaborate on https://www.linkedin.com/in/supriya-singh-b709b7264/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrNPidtDlSF6vP9xVkdaPSQ%3D%3D
 
-- 📫 How to reach me **https://www.linkedin.com/in/supriya-singh-b709b7264/**
+- 💬 ask me about anything, I would be happy to help
+
+- 📫 Reach me on supriya0404255@gmail.com
+
+-⚡ Fun Fact: Imagination is more important than knowledge
 </div>
 <div><img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif"></div>
  
