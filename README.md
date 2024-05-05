@@ -12,11 +12,16 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 
 <div display="flex">
-<div>- 🌱 I’m currently learning **React,Chakra UI**
+<div>
+
+- 🔭 I’m currently pursuing Full Stack Web Development
+
+- 💬 I,m good at communication
 
 - 👨‍💻 All of my projects are available at [https://github.com/Supriya334?tab=repositories](https://github.com/Supriya334?tab=repositories)
 
-- 👯 I’m looking to collaborate on https://www.linkedin.com/in/supriya-singh-b709b7264/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrNPidtDlSF6vP9xVkdaPSQ%3D%3D
+- 👯 I’m looking to collaborate on <a href="https://www.linkedin.com/in/supriya-singh-b709b7264/? 
+     lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BrNPidtDlSF6vP9xVkdaPSQ%3D%3D">LinkedIn </a>
 
 - 💬 ask me about anything, I would be happy to help
 
