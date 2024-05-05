@@ -1,4 +1,4 @@
-<img align="center" src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="50px">
+<img align="center" src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="50px"><p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya334&label=Profile%20views&color=0e75b6&style=flat" alt="supriya334" /> </p>
 
 <h2 align="center"> <b> Hey there👋🏻, I'm Supriya 💻! Glad to see you here!
 
@@ -8,8 +8,7 @@ An aspiring Full Stack Web Developer with skills in frontend Development.</b></h
 
 Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring Full Stack Web Developer), passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned. Working with React and Chakra Ui and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya334&label=Profile%20views&color=0e75b6&style=flat" alt="supriya334" /> </p>
-
+<hr>
 
 <div display="flex">
 <div width="49%">
@@ -33,6 +32,7 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
  
 </div>
 
+<hr>
 
 <h3 align="left">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" height="35px"></h3>
 
@@ -40,7 +40,7 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
  <a href="https://linkedin.com/in/https://www.linkedin.com/in/supriya-singh-b709b7264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya-singh-b709b7264/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/daring_queen_96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/daring_queen_02480/" height="30" width="40" /></a>
 </p>
-
+<hr>
 <br>
 
 # ⚡Tech Stack
@@ -48,7 +48,7 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 
 <br>
-
+<hr>
 # 📊  My Github Stats:-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriya334" alt="supriya334" /></a> </p>
 
@@ -57,7 +57,8 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=supriya334&show_icons=true&locale=en" alt="supriya334" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=supriya334&" alt="supriya334" /></p>
-
+<hr>
  Thank You 
  Keep Learning, Keep Growing
 
+<hr>
