@@ -12,7 +12,7 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 
 <div display="flex">
-<div>
+<div width="49%">
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
@@ -29,7 +29,7 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 -⚡ Fun Fact: Imagination is more important than knowledge
 </div>
-<div><img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif"></div>
+<div width="48%"><img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif" height="120px" width="100%"></div>
  
 </div>
 
