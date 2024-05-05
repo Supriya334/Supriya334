@@ -34,10 +34,10 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 </div>
 
 
-<h3 align="left">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif></h3>
+<h3 align="left">Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif"></h3>
 
-<p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/supriya-singh-b709b7264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya-singh-b709b7264/" height="30" width="40" /></a>
- 
+<p align="left">
+ <a href="https://linkedin.com/in/https://www.linkedin.com/in/supriya-singh-b709b7264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya-singh-b709b7264/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/daring_queen_96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/daring_queen_02480/" height="30" width="40" /></a>
 </p>
 
