@@ -8,7 +8,7 @@ An aspiring Full Stack Web Developer with skills in frontend Development.</b></h
 
 Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring Full Stack Web Developer), passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned. Working with React and Chakra Ui and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
 
-<hr>
+
 
 <div display="flex">
 <div width="49%">
