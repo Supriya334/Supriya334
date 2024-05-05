@@ -1,4 +1,4 @@
- <h2><img  src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="70px"> align="center"><b> Hey there👋🏻, I'm Supriya 💻! Glad to see you here!
+ <h2 align="center"><img  src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="70px"> <b> Hey there👋🏻, I'm Supriya 💻! Glad to see you here!
 
 An aspiring Full Stack Web Developer with skills in frontend Development.</b></h2>
 <hr>
