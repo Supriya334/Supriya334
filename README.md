@@ -1,16 +1,17 @@
-<img margin="auto" src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="70px">
+<img margin="auto" src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="50px">
 
- <h2 align="center"> <b> Hey there👋🏻, I'm Supriya 💻! Glad to see you here!
+<h2 align="center"> <b> Hey there👋🏻, I'm Supriya 💻! Glad to see you here!
 <hr>
+ <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 An aspiring Full Stack Web Developer with skills in frontend Development.</b></h2>
-<hr>
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring Full Stack Web Developer), passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned. Working with React and Chakra Ui and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
 
 
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya334&label=Profile%20views&color=0e75b6&style=flat" alt="supriya334" /> </p>
 
