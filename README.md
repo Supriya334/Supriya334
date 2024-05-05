@@ -1,5 +1,5 @@
 
-<img src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif"> 
+<img  src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="20px"> 
 I'm Supriya 💻! Glad to see you here!
 An aspiring Full Stack Web Developer with skills in frontend Development.
 
