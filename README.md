@@ -1,4 +1,4 @@
-<img align="center" src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="70px">
+<img margin="auto" src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="70px">
 
  <h2 align="center"> <b> Hey there👋🏻, I'm Supriya 💻! Glad to see you here!
 <hr>
