@@ -10,8 +10,6 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supriya334&label=Profile%20views&color=0e75b6&style=flat" alt="supriya334" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriya334" alt="supriya334" /></a> </p>
-
 
 <div display="flex">
 <div>- 🌱 I’m currently learning **React,Chakra UI**
@@ -22,8 +20,8 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 - 📫 How to reach me **https://www.linkedin.com/in/supriya-singh-b709b7264/**
 </div>
-<div></div>
- <img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif">
+<div><img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif"></div>
+ 
 </div>
 
 
@@ -34,6 +32,10 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/supriya-singh-b709b7264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/supriya-singh-b709b7264/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/daring_queen_02480/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/daring_queen_02480/" height="30" width="40" /></a>
 </p>
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=supriya334" alt="supriya334" /></a> </p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 
