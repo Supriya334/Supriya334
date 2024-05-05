@@ -1,5 +1,7 @@
- <h2 align="center"><img  src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="70px"> <b> Hey there👋🏻, I'm Supriya 💻! Glad to see you here!
+<img align="center" src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="70px">
 
+ <h2 align="center"> <b> Hey there👋🏻, I'm Supriya 💻! Glad to see you here!
+<hr>
 An aspiring Full Stack Web Developer with skills in frontend Development.</b></h2>
 <hr>
 
