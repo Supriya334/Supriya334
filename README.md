@@ -1,6 +1,6 @@
 
-<img  src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="20px"> 
-I'm Supriya 💻! Glad to see you here!
+<img  src="https://c.tenor.com/CigpzapemsoAAAAC/hi-robot.gif" height="40px"> I'm Supriya 💻! Glad to see you here!
+
 An aspiring Full Stack Web Developer with skills in frontend Development.
 
 Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring Full Stack Web Developer), passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned. Working with React and Chakra Ui and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
