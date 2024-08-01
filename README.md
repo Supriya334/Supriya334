@@ -11,7 +11,7 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 
 <div display="flex"> 
-<div width="49%"> 
+<div width="49%">  
 
 - 🔭 I’m currently pursuing Full Stack Web Development
 
