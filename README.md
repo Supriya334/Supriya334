@@ -6,14 +6,16 @@
 A Full Stack Web Developer Based In Kanpur.</b></h2>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring Full Stack Web Developer), passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned. Working with React and Chakra Ui and programming languages like JavaScript for web development. Looking forward to some interesting and challenging opportunities.
+Hello stranger! My name is Supriya a MBA persuing graduate(BBA) with  a certified  Web Developer , passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned.  Looking forward to apply the knowledge of management and technical  for some interesting and challenging opportunities.
 
 
 
 <div display="flex"> 
 <div width="49%">  
 
-- 🔭 I’m currently pursuing Full Stack Web Development
+- 🔭 I’m currently pursuing Master Of Business Administration
+  
+- * Certified web developer
 
 - 💬 I,m good at communication
 
@@ -24,7 +26,7 @@ Hello stranger! My name is Supriya and I am a Frontend Web Developer (aispiring 
 
 - 💬 ask me about anything, I would be happy to help
 
-- 📫 Reach me on <a href="supriya0404255@gmail.com">Mail</a>
+- 📫 Reach me on <a href="supriya739805@gmail.com">Mail</a>
 
 -⚡ Fun Fact: Imagination is more important than knowledge
 </div>
