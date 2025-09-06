@@ -8,7 +8,7 @@
 
 Hello stranger! My name is Supriya a MBA persuing graduate(BBA) with  a certified  Web Developer , passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned.  Looking forward to apply the knowledge of management and technical  for some interesting and challenging opportunities.
 
-
+ 
 
 <div display="flex"> 
 <div width="49%">  
