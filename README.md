@@ -3,7 +3,7 @@
 <h2 align="center"> <b> Hey there👋🏻, I'm Supriya🧐! Glad to see you here!     
    
  <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">  
-A Full Stack Web Developer Based In Kanpur.</b></h2>
+ “Bridging business and technology with an optimistic mindset — where strategy meets innovation.”</b></h2>
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 Hello stranger! My name is Supriya a MBA persuing graduate(BBA) with  a certified  Web Developer , passionate about building digital products that improve everyday experience for people. I love to work on exciting projects that test what I've learned.  Looking forward to apply the knowledge of management and technical  for some interesting and challenging opportunities.
