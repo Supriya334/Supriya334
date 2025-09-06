@@ -30,7 +30,7 @@ Hello stranger! My name is Supriya a MBA persuing graduate(BBA) with  a certifie
 
 -⚡ Fun Fact: Imagination is more important than knowledge
 </div>
-<div width="48%"><img src="https://cdn.dribbble.com/users/2520294/screenshots/7269423/alaminxyz.gif"></div>
+
  
 </div>
 
